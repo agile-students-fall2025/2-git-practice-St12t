@@ -13,4 +13,4 @@ Content Delivery Networks (CDNs)  an example of how software engineering princip
 
 ### Others opinions
 
-- I got to know that CDNs also help lower bandwidth costs, increase availability, and provide protection against threats like DDoS attacks ( mmc10050 - Michael Mvano)
+- I got to know that CDNs also help lower bandwidth costs, increase availability, and provide protection against threats like DDoS attacks ( mmc10050 - Michael Mvano ..)
